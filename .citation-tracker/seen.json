@@ -1,0 +1,900 @@
+{
+ "tool": "pyspi",
+ "entries": {
+  "doi:10.1007/s11571-026-10544-x": {
+   "doi": "10.1007/s11571-026-10544-x",
+   "openalex": "W7213350737",
+   "pmid": "42750765",
+   "title": "Gated triadic coupling in a Hopfield neural network: cooperative-competitive dynamics and synchronization",
+   "year": 2026,
+   "authors": [
+    "Shao",
+    "Li"
+   ],
+   "venue": "Cognitive Neurodynamics",
+   "type": "journal",
+   "pubdate": "2026-09-16",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1016/j.cels.2026.101678": {
+   "doi": "10.1016/j.cels.2026.101678",
+   "openalex": "W7170040654",
+   "pmid": "42486087",
+   "title": "Delineation of signaling microdomains from live-cell movies",
+   "year": 2026,
+   "authors": [
+    "Ravishankar",
+    "Marston",
+    "Hahn",
+    "Hodgson"
+   ],
+   "venue": "Cell Systems",
+   "type": "journal",
+   "pubdate": "2026-07-01",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1016/j.chaos.2025.117627": {
+   "doi": "10.1016/j.chaos.2025.117627",
+   "openalex": "W4416757239",
+   "title": "Information integration and the latent consciousness of human groups",
+   "year": 2025,
+   "authors": [
+    "Watson",
+    "Maier",
+    "Novillo",
+    "Echegoyen"
+   ],
+   "venue": "Chaos Solitons & Fractals",
+   "type": "journal",
+   "pubdate": "2025-11-26",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1016/j.chbr.2025.100831": {
+   "doi": "10.1016/j.chbr.2025.100831",
+   "openalex": "W4415278421",
+   "title": "Biofeedback in team settings: A systematic review of applications and outcomes",
+   "year": 2025,
+   "authors": [
+    "Yang",
+    "Wiltshire",
+    "Hałgas",
+    "Eijndhoven"
+   ],
+   "venue": "Computers in Human Behavior Reports",
+   "type": "journal",
+   "pubdate": "2025-10-17",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1016/j.clinph.2025.2110937": {
+   "doi": "10.1016/j.clinph.2025.2110937",
+   "openalex": "W4412644094",
+   "pmid": "40714439",
+   "title": "Prediction of response to transcranial magnetic stimulation treatment for depression using EEG and machine learning",
+   "year": 2025,
+   "authors": [
+    "Bailey",
+    "Fulcher",
+    "Arns",
+    "Fitzgerald"
+   ],
+   "venue": "Clinical Neurophysiology",
+   "type": "journal",
+   "pubdate": "2025-07-24",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1016/j.neuroimage.2025.121195": {
+   "doi": "10.1016/j.neuroimage.2025.121195",
+   "openalex": "W4409291488",
+   "pmid": "40216213",
+   "title": "How to measure functional connectivity using resting-state fMRI? A comprehensive empirical exploration of different connectivity metrics",
+   "year": 2025,
+   "authors": [
+    "Roell",
+    "Wunderlich",
+    "Roell",
+    "Raabe"
+   ],
+   "venue": "NeuroImage",
+   "type": "journal",
+   "pubdate": "2025-04-09",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Applications Papers",
+   "note": "bootstrap: already on page (card links ScienceDirect pii S1053811925001983); published version of doi:10.1101/2024.03.18.585458"
+  },
+  "doi:10.1016/j.physrep.2025.10.003": {
+   "doi": "10.1016/j.physrep.2025.10.003",
+   "openalex": "W4415493460",
+   "title": "Nonequilibrium physics of brain dynamics",
+   "year": 2025,
+   "authors": [
+    "Nartallo-Kaluarachchi",
+    "Kringelbach",
+    "Deco",
+    "Lambiotte"
+   ],
+   "venue": "Physics Reports",
+   "type": "journal",
+   "pubdate": "2025-10-24",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1038/s41467-026-75959-w": {
+   "doi": "10.1038/s41467-026-75959-w",
+   "openalex": "W7171682201",
+   "pmid": "42660887",
+   "title": "Charting higher-order models of brain function beyond pairwise interactions",
+   "year": 2026,
+   "authors": [
+    "Santoro",
+    "Neri",
+    "Poetto",
+    "Orsenigo"
+   ],
+   "venue": "Nature Communications",
+   "type": "journal",
+   "pubdate": "2026-07-29",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.1038/s41562-025-02332-0": {
+   "doi": "10.1038/s41562-025-02332-0",
+   "openalex": "W4415692900",
+   "pmid": "41168426",
+   "title": "Spontaneous brain regional dynamics contribute to generalizable brain–behaviour associations",
+   "year": 2025,
+   "authors": [
+    "Tian",
+    "Peng",
+    "Liu",
+    "Shafiei"
+   ],
+   "venue": "Nature Human Behaviour",
+   "type": "journal",
+   "pubdate": "2025-10-30",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1038/s41592-025-02704-4": {
+   "doi": "10.1038/s41592-025-02704-4",
+   "title": "Benchmarking methods for mapping functional connectivity in the brain",
+   "year": 2025,
+   "authors": [
+    "Liu",
+    "Luppi",
+    "Hansen",
+    "Tian"
+   ],
+   "venue": "Nature Methods",
+   "type": "journal",
+   "openalex": "W4411100487",
+   "pmid": "40481361",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Applications Papers",
+   "page_line": 26,
+   "note": "bootstrap: already on page"
+  },
+  "doi:10.1038/s41598-026-41275-y": {
+   "doi": "10.1038/s41598-026-41275-y",
+   "openalex": "W7131408334",
+   "pmid": "41741623",
+   "title": "Cardiac synchrony, peer relationships, and affective experiences in children during group interactions",
+   "year": 2026,
+   "authors": [
+    "Denk",
+    "Pruessner",
+    "Farah",
+    "Barth"
+   ],
+   "venue": "Scientific Reports",
+   "type": "journal",
+   "pubdate": "2026-02-25",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.1038/s42003-025-09165-7": {
+   "doi": "10.1038/s42003-025-09165-7",
+   "openalex": "W4417363108",
+   "pmid": "41402437",
+   "title": "Feature similarity, a sensitive method to capture the functional interaction of brain regions and networks to support flexible behavior",
+   "year": 2025,
+   "authors": [
+    "Wang",
+    "Lyu",
+    "Krieger‐Redwood",
+    "Souter"
+   ],
+   "venue": "Communications Biology",
+   "type": "journal",
+   "pubdate": "2025-12-16",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "evidence": "'Compared with Pearson correlation-based functional connectivity (FC) and 46 out of 49 statistical pairwise interaction metrics (SPIs), FS demonstrated greater sensitivity to task modulation.'"
+  },
+  "doi:10.1038/s43588-023-00519-x": {
+   "doi": "10.1038/s43588-023-00519-x",
+   "title": "Unifying pairwise interactions in complex dynamics",
+   "year": 2023,
+   "authors": [
+    "Cliff",
+    "Bryant",
+    "Lizier",
+    "Tsuchiya"
+   ],
+   "venue": "Nature Computational Science",
+   "type": "journal",
+   "openalex": "W4387014539",
+   "pmid": "38177751",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Original Paper",
+   "page_line": 18,
+   "note": "bootstrap: already on page"
+  },
+  "doi:10.1073/pnas.2423297122": {
+   "doi": "10.1073/pnas.2423297122",
+   "openalex": "W4414384776",
+   "pmid": "40982679",
+   "title": "Toward a unified taxonomy of information dynamics via Integrated Information Decomposition",
+   "year": 2025,
+   "authors": [
+    "Mediano",
+    "Rosas",
+    "Luppi",
+    "Carhart-Harris"
+   ],
+   "venue": "Proceedings of the National Academy of Sciences",
+   "type": "conference",
+   "pubdate": "2025-09-22",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1088/2632-072x/add3a8": {
+   "doi": "10.1088/2632-072x/add3a8",
+   "openalex": "W4410023386",
+   "title": "Assessing the interactions between time series signals using weighted horizontal visibility graphs",
+   "year": 2025,
+   "authors": [
+    "Teymourlouei",
+    "Reggia",
+    "Gentili"
+   ],
+   "venue": "Journal of Physics Complexity",
+   "type": "journal",
+   "pubdate": "2025-05-02",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1093/nc/niag029": {
+   "doi": "10.1093/nc/niag029",
+   "openalex": "W7167585600",
+   "pmid": "42415873",
+   "title": "A data-driven approach to identifying and evaluating connectivity-based neural correlates of conscious visual perception",
+   "year": 2026,
+   "authors": [
+    "Bryant",
+    "Whyte"
+   ],
+   "venue": "Neuroscience of Consciousness",
+   "type": "journal",
+   "pubdate": "2026-01-01",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "evidence": "Published version of the bioRxiv preprint already carded on the page (confirmed by Ben); 246 FC measures compared (pyspi)",
+   "on_page": true
+  },
+  "doi:10.1101/2024.03.18.585458": {
+   "doi": "10.1101/2024.03.18.585458",
+   "title": "How to measure functional connectivity using resting-state fMRI? A comprehensive empirical exploration of different connectivity metrics",
+   "year": 2024,
+   "authors": [
+    "Roell",
+    "Wunderlich",
+    "Roell",
+    "Raabe"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "openalex": "W4395090003",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Applications Papers",
+   "page_line": 26,
+   "note": "bootstrap: already on page",
+   "published_as": "10.1016/j.neuroimage.2025.121195"
+  },
+  "doi:10.1101/2025.04.06.646695": {
+   "doi": "10.1101/2025.04.06.646695",
+   "title": "A data-driven approach to identifying and evaluating connectivity-based neural correlates of consciousness",
+   "year": 2025,
+   "authors": [
+    "Bryant",
+    "Whyte"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "openalex": "W4409276895",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Applications Papers",
+   "page_line": 26,
+   "note": "confirmed by Ben 2026-09-30: preprint of Neurosci Conscious 2026; card updated",
+   "published_doi": "10.1093/nc/niag029"
+  },
+  "doi:10.1101/2025.07.13.664614": {
+   "doi": "10.1101/2025.07.13.664614",
+   "openalex": "W4412871034",
+   "title": "The Motion Sensitivity and Predictive Utility of Different Estimates of Inter-regional Functional Coupling in Resting-state Functional MRI",
+   "year": 2025,
+   "authors": [
+    "Pavlovich",
+    "Pang",
+    "Fornito"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "pubdate": "2025-07-18",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1101/2025.07.22.666141": {
+   "doi": "10.1101/2025.07.22.666141",
+   "openalex": "W4412674132",
+   "title": "Pairwise Causal Discovery in Biochemical Network: A Survey on Directionality Inference within Complex Networks from Stationary Observations",
+   "year": 2025,
+   "authors": [
+    "Leibovich",
+    "Čuperlović‐Culf"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "pubdate": "2025-07-26",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1101/2025.10.01.679834": {
+   "doi": "10.1101/2025.10.01.679834",
+   "openalex": "W4414770407",
+   "title": "Common Phenomenal and Neural Substrate Geometry in Visual Motion Perception",
+   "year": 2025,
+   "authors": [
+    "Robinson",
+    "Zeleznikow-Johnston",
+    "Wu",
+    "Yoshimura"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "pubdate": "2025-10-02",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "'Emerging computational toolboxes, such as pySPI, are becoming available to evaluate statistics of pairwise interactions' — future-work mention only"
+  },
+  "doi:10.1103/4nb2-398s": {
+   "doi": "10.1103/4nb2-398s",
+   "openalex": "W4416550162",
+   "title": "Identifying statistical indicators of temporal asymmetry using a data-driven approach",
+   "year": 2026,
+   "authors": [
+    "Nogare",
+    "Fulcher"
+   ],
+   "venue": "Physical Review Research",
+   "type": "journal",
+   "pubdate": "2026-03-13",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1103/p6qp-2s9f": {
+   "doi": "10.1103/p6qp-2s9f",
+   "openalex": "W7164804737",
+   "title": "Assessing imbalance in signed brain networks",
+   "year": 2026,
+   "authors": [
+    "Anonymous",
+    "Agrimi",
+    "Tatullo",
+    "Gili"
+   ],
+   "venue": "Physical Review Research",
+   "type": "journal",
+   "pubdate": "2026-06-15",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1103/physrevlett.134.137401": {
+   "doi": "10.1103/physrevlett.134.137401",
+   "openalex": "W4409014868",
+   "pmid": "40250379",
+   "title": "Synergistic Signatures of Group Mechanisms in Higher-Order Systems",
+   "year": 2025,
+   "authors": [
+    "Robiglio",
+    "Neri",
+    "Coppes",
+    "Agostinelli"
+   ],
+   "venue": "Physical Review Letters",
+   "type": "journal",
+   "pubdate": "2025-03-31",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.1103/qnx2-yp4c": {
+   "doi": "10.1103/qnx2-yp4c",
+   "openalex": "W4417210148",
+   "title": "Feature-based information-theoretic approach for detecting interpretable, long-timescale pairwise interactions from time series",
+   "year": 2025,
+   "authors": [
+    "Nguyen",
+    "McMullin",
+    "Lizier",
+    "Fulcher"
+   ],
+   "venue": "Physical Review Research",
+   "type": "journal",
+   "pubdate": "2025-10-14",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1109/tec.2025.3629754": {
+   "doi": "10.1109/tec.2025.3629754",
+   "openalex": "W4415971018",
+   "title": "Neural Network-Based Dynamic Modeling of Synchronous Generator Using Data Augmentation",
+   "year": 2025,
+   "authors": [
+    "Yang",
+    "Wang",
+    "Zhang",
+    "Wang"
+   ],
+   "venue": "IEEE Transactions on Energy Conversion",
+   "type": "journal",
+   "pubdate": "2025-11-06",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1109/tpwrd.2025.3568159": {
+   "doi": "10.1109/tpwrd.2025.3568159",
+   "openalex": "W4410204218",
+   "title": "Dynamics Enhanced Quasi-Steady-State Model of LCC-HVDC Systems Based on Neural Network",
+   "year": 2025,
+   "authors": [
+    "Yang",
+    "Wang",
+    "Zhang",
+    "Geng"
+   ],
+   "venue": "IEEE Transactions on Power Delivery",
+   "type": "journal",
+   "pubdate": "2025-05-08",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1109/tsmc.2025.3649993": {
+   "doi": "10.1109/tsmc.2025.3649993",
+   "openalex": "W7124179377",
+   "title": "Hyperedge-Based Adaptive Pinning Control in Hypernetworks Under Dynamic Link Attacks",
+   "year": 2026,
+   "authors": [
+    "Yuan",
+    "Gu",
+    "Zhang",
+    "Tong"
+   ],
+   "venue": "IEEE Transactions on Systems Man and Cybernetics Systems",
+   "type": "journal",
+   "pubdate": "2026-01-14",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1162/imag.a.1113": {
+   "doi": "10.1162/imag.a.1113",
+   "openalex": "W7118391939",
+   "pmid": "41614050",
+   "title": "Replication and validation of two novel magnetoencephalography functional connectivity measures in Alzheimer’s disease",
+   "year": 2026,
+   "authors": [
+    "Scheijbeler",
+    "Molleson",
+    "Schoonhoven",
+    "Nifterick"
+   ],
+   "venue": "Imaging Neuroscience",
+   "type": "journal",
+   "pubdate": "2026-01-01",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1177/10464964261430685": {
+   "doi": "10.1177/10464964261430685",
+   "openalex": "W7140094738",
+   "title": "Multiscale Coordination Dynamics: Reflections and Opportunities for Advancing Groups and Teams Research",
+   "year": 2026,
+   "authors": [
+    "Wiltshire"
+   ],
+   "venue": "Small Group Research",
+   "type": "journal",
+   "pubdate": "2026-03-23",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1186/s12984-026-01928-5": {
+   "doi": "10.1186/s12984-026-01928-5",
+   "openalex": "W7138125444",
+   "pmid": "41845449",
+   "title": "Biomarkers of stroke recovery using EEG-based resting-state functional connectivity: a systematic review",
+   "year": 2026,
+   "authors": [
+    "Napoli",
+    "Masina",
+    "Pezzetta",
+    "Vanni"
+   ],
+   "venue": "Journal of NeuroEngineering and Rehabilitation",
+   "type": "journal",
+   "pubdate": "2026-03-17",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.1371/journal.pbio.3003217": {
+   "doi": "10.1371/journal.pbio.3003217",
+   "openalex": "W4412163999",
+   "pmid": "40638578",
+   "title": "Wakefulness can be distinguished from general anesthesia and sleep in flies using a massive library of univariate time series analyses",
+   "year": 2025,
+   "authors": [
+    "Leung",
+    "Mahmoud",
+    "Jeans",
+    "Fulcher"
+   ],
+   "venue": "PLoS Biology",
+   "type": "journal",
+   "pubdate": "2025-07-10",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "'there is a more recent toolbox, pyspi, which provides over 250 bivariate analysis methods' — discussion mention only"
+  },
+  "doi:10.1371/journal.pcbi.1012692": {
+   "doi": "10.1371/journal.pcbi.1012692",
+   "title": "Extracting interpretable signatures of whole-brain dynamics through systematic comparison",
+   "year": 2024,
+   "authors": [
+    "Bryant",
+    "Aquino",
+    "Parkes",
+    "Fornito"
+   ],
+   "venue": "PLoS Computational Biology",
+   "type": "journal",
+   "openalex": "W4405708980",
+   "pmid": "39715231",
+   "first_seen": "2026-09-30",
+   "verdict": "A",
+   "on_page": true,
+   "section": "Applications Papers",
+   "page_line": 26,
+   "note": "bootstrap: already on page"
+  },
+  "doi:10.1371/journal.pcbi.1013597": {
+   "doi": "10.1371/journal.pcbi.1013597",
+   "openalex": "W4415525573",
+   "pmid": "41134873",
+   "title": "Synchrony, oscillations, and phase relationships in collective neuronal activity: A highly comparative overview of methods",
+   "year": 2025,
+   "authors": [
+    "Baroni",
+    "Fulcher"
+   ],
+   "venue": "PLoS Computational Biology",
+   "type": "journal",
+   "pubdate": "2025-10-24",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.1371/journal.pcbi.1013859": {
+   "doi": "10.1371/journal.pcbi.1013859",
+   "openalex": "W7117133926",
+   "pmid": "42607096",
+   "title": "The limitations of non-mechanistic methods for characterizing pathogen-pathogen interactions: A simulation study",
+   "year": 2026,
+   "authors": [
+    "Krämer",
+    "Pirikahu",
+    "Kussmaul",
+    "Opatowski"
+   ],
+   "venue": "PLoS Computational Biology",
+   "type": "journal",
+   "pubdate": "2026-08-17",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.1371/journal.pone.0349617": {
+   "doi": "10.1371/journal.pone.0349617",
+   "openalex": "W7164892639",
+   "pmid": "42302075",
+   "title": "Pairwise causal discovery in biochemical networks: A survey on directionality inference within complex networks from stationary observations",
+   "year": 2026,
+   "authors": [
+    "Leibovich",
+    "Čuperlović‐Culf"
+   ],
+   "venue": "PLoS ONE",
+   "type": "journal",
+   "pubdate": "2026-06-16",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.3389/fnetp.2026.1869004": {
+   "doi": "10.3389/fnetp.2026.1869004",
+   "openalex": "W7167712128",
+   "pmid": "42488130",
+   "title": "Cross-wavelet analysis allows obtaining high temporal and frequency resolution in heart rate synchrony analysis",
+   "year": 2026,
+   "authors": [
+    "Denk",
+    "Wienhold",
+    "Volkmer",
+    "Troje"
+   ],
+   "venue": "Frontiers in Network Physiology",
+   "type": "journal",
+   "pubdate": "2026-07-08",
+   "first_seen": "2026-09-30",
+   "verdict": "D",
+   "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.7554/elife.106194.1": {
+   "doi": "10.7554/elife.106194.1",
+   "openalex": "W4410550617",
+   "title": "Virtual Brain Inference (VBI): A flexible and integrative toolkit for efficient probabilistic inference on virtual brain models",
+   "year": 2025,
+   "authors": [
+    "Ziaeemehr",
+    "Woodman",
+    "Domide",
+    "Petkoski"
+   ],
+   "venue": "eLife",
+   "type": "journal",
+   "pubdate": "2025-05-21",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.7554/elife.106194.4": {
+   "doi": "10.7554/elife.106194.4",
+   "openalex": "W4417291512",
+   "pmid": "41384500",
+   "title": "Virtual Brain Inference (VBI), a flexible and integrative toolkit for efficient probabilistic inference on whole-brain models",
+   "year": 2025,
+   "authors": [
+    "Ziaeemehr",
+    "Woodman",
+    "Domide",
+    "Petkoski"
+   ],
+   "venue": "eLife",
+   "type": "journal",
+   "pubdate": "2025-11-24",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "doi:10.7554/elife.108023": {
+   "doi": "10.7554/elife.108023",
+   "openalex": "W4414124402",
+   "pmid": "41954994",
+   "title": "Challenges in replay detection by TDLM in post-encoding resting state",
+   "year": 2025,
+   "authors": [
+    "Kern",
+    "Nagel",
+    "Wittkuhn",
+    "Gais"
+   ],
+   "venue": "eLife",
+   "type": "journal",
+   "pubdate": "2025-09-11",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40025455": {
+   "pmid": "40025455",
+   "title": "Spatial analysis of air pollutant exposure and its association with metabolic diseases using machine learning.",
+   "year": 2025,
+   "authors": [
+    "J",
+    "C",
+    "Z",
+    "Y"
+   ],
+   "venue": "BMC Public Health",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40108121": {
+   "pmid": "40108121",
+   "title": "Hypergraph reconstruction from dynamics.",
+   "year": 2025,
+   "authors": [
+    "R",
+    "G",
+    "F",
+    "Y"
+   ],
+   "venue": "Nat Commun",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40179632": {
+   "pmid": "40179632",
+   "title": "Electroencephalography-driven brain-network models for personalized interpretation and prediction of neural oscillations.",
+   "year": 2025,
+   "authors": [
+    "T",
+    "D",
+    "J",
+    "G"
+   ],
+   "venue": "Clin Neurophysiol",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40378027": {
+   "pmid": "40378027",
+   "title": "Predictive Information Decomposition as a Tool to Quantify Emergent Dynamical Behaviors in Physiological Networks.",
+   "year": 2025,
+   "authors": [
+    "L",
+    "G",
+    "L",
+    "A"
+   ],
+   "venue": "IEEE Trans Biomed Eng",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40612715": {
+   "pmid": "40612715",
+   "title": "Directionality of neural activity in and out of the seizure onset zone in focal epilepsy.",
+   "year": 2025,
+   "authors": [
+    "H",
+    "A"
+   ],
+   "venue": "Netw Neurosci",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:40800947": {
+   "pmid": "40800947",
+   "title": "Beyond oscillations-Toward a richer characterization of brain states.",
+   "year": 2025,
+   "authors": [
+    "E",
+    "N",
+    "C",
+    "J"
+   ],
+   "venue": "Imaging Neurosci (Camb)",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:41377637": {
+   "pmid": "41377637",
+   "title": "Is Pearson's correlation coefficient enough for functional connectivity in fMRI?",
+   "year": 2025,
+   "authors": [
+    "H",
+    "JSB",
+    "K",
+    "BE"
+   ],
+   "venue": "Imaging Neurosci (Camb)",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:41878612": {
+   "pmid": "41878612",
+   "title": "The motion sensitivity and predictive utility of different estimates of interregional functional coupling in resting-state functional MRI.",
+   "year": 2026,
+   "authors": [
+    "K",
+    "JC",
+    "A"
+   ],
+   "venue": "Netw Neurosci",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:41965015": {
+   "pmid": "41965015",
+   "title": "Synergistic Motifs in Gaussian Systems.",
+   "year": 2026,
+   "authors": [
+    "E",
+    "PAM",
+    "L"
+   ],
+   "venue": "Phys Rev Lett",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "pmid:42113765": {
+   "pmid": "42113765",
+   "title": "THOI: An efficient and accessible library for computing higher-order interactions enhanced by batch-processing.",
+   "year": 2026,
+   "authors": [
+    "L",
+    "PAM",
+    "R",
+    "DF"
+   ],
+   "venue": "PLoS One",
+   "type": "journal",
+   "first_seen": "2026-09-30",
+   "verdict": "U",
+   "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  }
+ }
+}
