@@ -1,6 +1,23 @@
 {
  "tool": "pyspi",
  "entries": {
+  "doi:10.1002/cne.70213": {
+   "doi": "10.1002/cne.70213",
+   "openalex": "W7207727590",
+   "pmid": "42817206",
+   "title": "Structure Guides Function: Beyond Pairwise Neural Interactions",
+   "year": 2026,
+   "authors": [
+    "Maier"
+   ],
+   "venue": "The Journal of Comparative Neurology",
+   "type": "journal",
+   "pubdate": "2026-09-30",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "might help expand systems neuroscience from uni- or bivariate time series analyses (Leung et al. 2025; Cliff et al. 2023) toward higher order neuronal data analyses.",
+   "note": "Read in browser (Wiley)"
+  },
   "doi:10.1007/s11571-026-10544-x": {
    "doi": "10.1007/s11571-026-10544-x",
    "openalex": "W7213350737",
@@ -268,6 +285,26 @@
    "verdict": "U",
    "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
   },
+  "doi:10.1088/1741-2552/aebefe": {
+   "doi": "10.1088/1741-2552/aebefe",
+   "openalex": "W7225419233",
+   "pmid": "42993979",
+   "title": "Disentangling homogeneous and heterogeneous representation of human functional connectome via graph learning",
+   "year": 2026,
+   "authors": [
+    "Chen",
+    "Duong-Tran",
+    "Tarzanagh",
+    "Hou"
+   ],
+   "venue": "Journal of Neural Engineering",
+   "type": "journal",
+   "pubdate": "2026-11-06",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "17. O. M. Cliff, A. G. Bryant, J. T. Lizier, N. Tsuchiya, and B. D. Fulcher. Unifying pairwise interactions in complex dynamics.",
+   "note": "Reference-list citation only"
+  },
   "doi:10.1088/2632-072x/add3a8": {
    "doi": "10.1088/2632-072x/add3a8",
    "openalex": "W4410023386",
@@ -302,6 +339,26 @@
    "verdict": "A",
    "evidence": "Published version of the bioRxiv preprint already carded on the page (confirmed by Ben); 246 FC measures compared (pyspi)",
    "on_page": true
+  },
+  "doi:10.1098/rsif.2025.0969": {
+   "doi": "10.1098/rsif.2025.0969",
+   "openalex": "W4415016578",
+   "pmid": "42156010",
+   "title": "Unifying concepts in information-theoretic time-series analysis",
+   "year": 2026,
+   "authors": [
+    "Bryant",
+    "Cliff",
+    "Shine",
+    "Fulcher"
+   ],
+   "venue": "Journal of The Royal Society Interface",
+   "type": "journal",
+   "pubdate": "2026-05-20",
+   "first_seen": "2026-11-17",
+   "verdict": "C",
+   "evidence": "all information-theoretic measures covered here can be computed from empirical data using a combination of two open-source software packages: the Java Information Dynamics Toolkit ( JIDT ) [ 18 ] and the Python toolkit of statistics for pairwise interactions ( pyspi ) [ 19 , 20 ].",
+   "note": "Bryant, Cliff, Shine & Fulcher review: pyspi/JIDT implement the 11 information-theoretic measures in an illustrative fMRI case study; a tutorial rather than an SPI-library application. Ben may prefer to list it"
   },
   "doi:10.1101/2024.03.18.585458": {
    "doi": "10.1101/2024.03.18.585458",
@@ -465,6 +522,45 @@
    "verdict": "U",
    "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
   },
+  "doi:10.1109/ijcnn69854.2026.11730094": {
+   "doi": "10.1109/ijcnn69854.2026.11730094",
+   "openalex": "W7203882228",
+   "title": "Graph-Based Approaches to Learning Epileptogenic Zone Localization Using Stereo-EEG Recordings",
+   "year": 2026,
+   "authors": [
+    "Wendelken",
+    "Ervin",
+    "Arya",
+    "Minai"
+   ],
+   "venue": "International Joint Conference on Neural Networks (IJCNN)",
+   "type": "conference",
+   "pubdate": "2026-06-01",
+   "first_seen": "2026-11-17",
+   "verdict": "A",
+   "evidence": "For each window, we used PySPI v1.1.1 to compute a comprehensive suite of pairwise connectivity measures [25]",
+   "note": "185 connectivity features per electrode pair feed the graph models",
+   "section": "Applications Papers",
+   "confidence": 0.9
+  },
+  "doi:10.1109/mwc.2026.3655251": {
+   "doi": "10.1109/mwc.2026.3655251",
+   "openalex": "W7128311486",
+   "title": "Mutual Information-Driven Visualization and Clustering for Core KPI Selection in O-RAN Testing",
+   "year": 2026,
+   "authors": [
+    "Pradhan",
+    "Liu",
+    "Dhillon"
+   ],
+   "venue": "IEEE Wireless Communications",
+   "type": "journal",
+   "pubdate": "2026-01-01",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "[11] O. M. Cliff, A. G. Bryant, J. T. Lizier, N. Tsuchiya, and B. D. Fulcher, “Unifying pairwise interactions in com",
+   "note": "Reference-list citation only"
+  },
   "doi:10.1109/tec.2025.3629754": {
    "doi": "10.1109/tec.2025.3629754",
    "openalex": "W4415971018",
@@ -519,6 +615,42 @@
    "verdict": "U",
    "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
   },
+  "doi:10.1111/psyp.70404": {
+   "doi": "10.1111/psyp.70404",
+   "openalex": "W7128687270",
+   "pmid": "42788970",
+   "title": "Toward an Understanding of the Psychological Meaning of Physiological Synchrony",
+   "year": 2026,
+   "authors": [
+    "Danyluck",
+    "Doyle",
+    "Thorne",
+    "Adler"
+   ],
+   "venue": "Psychophysiology",
+   "type": "journal",
+   "pubdate": "2026-09-01",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "This point is consistent with broader comparative work on pairwise time-series interactions, which shows that analytic approaches differ in the kinds of dependencies they quantify ... (Cliff et al. 2023).",
+   "note": "Read in browser (Wiley)"
+  },
+  "doi:10.1142/s0219525926500037": {
+   "doi": "10.1142/s0219525926500037",
+   "openalex": "W4406122467",
+   "title": "RE-EXAMINING GRANGER CAUSALITY WITH CAUSAL BAYESIAN NETWORKS AND REICHENBACH’S PRINCIPLES",
+   "year": 2026,
+   "authors": [
+    "Adedayo"
+   ],
+   "venue": "Advances in Complex Systems",
+   "type": "journal",
+   "pubdate": "2026-07-24",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "Cliff, O.M., Lizier, J.T., Tsuchiya, N., Fulcher, B.D., 2022. Uni-",
+   "note": "Reference-list citation only"
+  },
   "doi:10.1162/imag.a.1113": {
    "doi": "10.1162/imag.a.1113",
    "openalex": "W7118391939",
@@ -571,6 +703,24 @@
    "first_seen": "2026-09-30",
    "verdict": "D",
    "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
+  },
+  "doi:10.13140/rg.2.2.16699.37924": {
+   "doi": "10.13140/rg.2.2.16699.37924",
+   "openalex": "W7143473049",
+   "title": "Reconciling Latent Variables and Networks Exploring and extending the Psychometric-Toolbox",
+   "year": 2026,
+   "authors": [
+    "Kistermann",
+    "Andriamiarana",
+    "Kelava"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2026-03-27",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "A large collection of Statistics of Pairwise Interactions (SPIs) is presented in Cliff et al. (2023)",
+   "note": "Discussion mention (arXiv 2603.26116)"
   },
   "doi:10.1371/journal.pbio.3003217": {
    "doi": "10.1371/journal.pbio.3003217",
@@ -684,6 +834,100 @@
    "verdict": "D",
    "evidence": "pyspi / Cliff et al. 2023 appears only in the reference list or as a passing mention of toolboxes"
   },
+  "doi:10.48550/arxiv.2512.09606": {
+   "doi": "10.48550/arxiv.2512.09606",
+   "openalex": "W7114892502",
+   "title": "A unified framework for identifying influential nodes in hypergraphs",
+   "year": 2025,
+   "authors": [
+    "Hao",
+    "Liu",
+    "Wang",
+    "Han"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2025-12-10",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "[5] Cliff, O.M., Bryant, A.G., Lizier, J.T.,",
+   "note": "Reference-list citation only"
+  },
+  "doi:10.48550/arxiv.2602.05667": {
+   "doi": "10.48550/arxiv.2602.05667",
+   "openalex": "W7128053951",
+   "title": "Accelerating Benchmarking of Functional Connectivity Modeling via Structure-aware Core-set Selection",
+   "year": 2026,
+   "authors": [
+    "展领",
+    "Li",
+    "Huang",
+    "Jia"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2026-02-05",
+   "first_seen": "2026-11-17",
+   "verdict": "A",
+   "evidence": "Our analysis relies on the pyspi library (Cliff et al., 2023), which is publicly available at https://github.com/DynamicsAndNeuralSystems/ pyspi.",
+   "note": "ICLR 2026 paper (arXiv copy); benchmarks a subset of pyspi SPIs for fMRI FC; first author Zhan Ling (OpenAlex gives the name in Chinese characters)",
+   "section": "Applications Papers",
+   "confidence": 0.9
+  },
+  "doi:10.48550/arxiv.2605.24558": {
+   "doi": "10.48550/arxiv.2605.24558",
+   "openalex": "W7162463886",
+   "title": "Position: AI for Science Should Treat Measurement-to-Dataset Pipelines as Inference Components",
+   "year": 2026,
+   "authors": [
+    "Zhan",
+    "Yu",
+    "贾韬"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2026-05-23",
+   "first_seen": "2026-11-17",
+   "verdict": "A",
+   "evidence": "For each valid preprocessing configuration, we ran the full set of 284 SPIs (Cliff et al., 2023), yielding 245, 376 candidate networks.",
+   "note": "Position paper whose EEG audit is built on pyspi ('The identifiers follow the version-locked pyspi configuration used in our experiments')",
+   "section": "Applications Papers",
+   "confidence": 0.8
+  },
+  "doi:10.48550/arxiv.2606.08498": {
+   "doi": "10.48550/arxiv.2606.08498",
+   "openalex": "W7163999280",
+   "title": "Tests for Independence of High-Dimensional Nonstationary Time Series",
+   "year": 2026,
+   "authors": [
+    "Zhang"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2026-06-07",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "Cliff, O. M., Bryant, A. G., Lizier, J. T., Tsuchiya, N. & Fulcher, B. D. (2023), ‘Unifying pairwise interaction",
+   "note": "Reference-list citation only"
+  },
+  "doi:10.64898/2026.02.21.707012": {
+   "doi": "10.64898/2026.02.21.707012",
+   "openalex": "W7131084249",
+   "title": "Systematic evaluation of an exhaustive set of connectivity estimators in bivariate and multivariate modes for an improved virtual source MEG connectivity analysis for the study of resting state recordings",
+   "year": 2026,
+   "authors": [
+    "Dimitriadis"
+   ],
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "type": "preprint",
+   "pubdate": "2026-02-23",
+   "first_seen": "2026-11-17",
+   "verdict": "A",
+   "evidence": "We used the recently developed Python Toolkit for Statistics on Pairwise Interactions (pyspi; v0.4.1, commit c19d06) to calculate alternative measures of pairwise interactions (SPIs) for FC.",
+   "note": "",
+   "section": "Applications Papers",
+   "confidence": 0.95
+  },
   "doi:10.7554/elife.106194.1": {
    "doi": "10.7554/elife.106194.1",
    "openalex": "W4410550617",
@@ -739,6 +983,23 @@
    "first_seen": "2026-09-30",
    "verdict": "U",
    "evidence": "Full text unreachable by script/browser, or reachable but abstract does not show pyspi use"
+  },
+  "openalex:W7208794437": {
+   "openalex": "W7208794437",
+   "title": "Parameter inference from a non-stationary unknown process using statistical feature-based slow feature analysis",
+   "year": 2026,
+   "authors": [
+    "Owens",
+    "Tamaki",
+    "Fulcher"
+   ],
+   "venue": "arXiv (Cornell University)",
+   "type": "preprint",
+   "pubdate": "2026-08-31",
+   "first_seen": "2026-11-17",
+   "verdict": "D",
+   "evidence": "[15] O. M. Cliff, A. G. Bryant, J. T. Lizier, N. Tsuchiya, and",
+   "note": "Owens, Tamaki & Fulcher (arXiv 2609.01651); reference-list citation only"
   },
   "pmid:40025455": {
    "pmid": "40025455",

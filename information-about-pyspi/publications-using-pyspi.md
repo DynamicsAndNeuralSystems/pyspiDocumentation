@@ -27,6 +27,14 @@ The following publications have utilised _pyspi_ for a variety of real-world app
 
 _in addition to:_
 
+* Localize the epileptogenic zone from stereo-EEG connectivity graphs.
+  * [📗 <mark style="color:green;">Wendelken et al.,</mark> _<mark style="color:green;">International Joint Conference on Neural Networks (IJCNN)</mark>_ <mark style="color:green;">(2026).</mark>](https://doi.org/10.1109/ijcnn69854.2026.11730094)
+* Audit how EEG preprocessing and the choice of pairwise statistic change conclusions about depression.
+  * [📙 <mark style="color:orange;">Zhan et al.,</mark> _<mark style="color:orange;">arXiv</mark>_ <mark style="color:orange;">(2026).</mark>](https://doi.org/10.48550/arxiv.2605.24558)
+* Evaluate functional connectivity estimators for resting-state MEG in mild cognitive impairment.
+  * [📙 <mark style="color:orange;">Dimitriadis,</mark> _<mark style="color:orange;">bioRxiv</mark>_ <mark style="color:orange;">(2026).</mark>](https://doi.org/10.64898/2026.02.21.707012)
+* Speed up benchmarking of pairwise statistics for fMRI functional connectivity by selecting a representative core-set of subjects.
+  * [📙 <mark style="color:orange;">Zhan et al.,</mark> _<mark style="color:orange;">arXiv</mark>_ <mark style="color:orange;">(2026).</mark>](https://doi.org/10.48550/arxiv.2602.05667)
 * Capture the functional interaction structure of the brain using feature similarity, compared against 46 of 49 SPIs.
   * [📗 <mark style="color:green;">Wang et al.,</mark> _<mark style="color:green;">Communications Biology</mark>_ <mark style="color:green;">(2025).</mark>](https://doi.org/10.1038/s42003-025-09165-7)
 
