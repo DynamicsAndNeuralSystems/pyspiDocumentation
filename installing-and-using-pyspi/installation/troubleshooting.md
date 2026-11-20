@@ -80,9 +80,20 @@ If you hit a Windows-specific problem, running _pyspi_ under the [Windows Subsys
 
 {% hint style="success" %}
 Every value in `calc.table` is a real, finite number or NaN.
-A NaN can mean the statistic is undefined for that input, that the input was rejected (for example a constant series, or one containing NaN or Inf), or that the computation failed.
+A NaN means either that the statistic is undefined for that input or that the computation failed.
 `calc.quality` gives one code per cell (from `pyspi.Quality`) saying which, and `calc.errors` gives the error message for every SPI that failed.
 For example, the Kraskov (KSG) estimators refuse series with repeated values, so quantised data return NaN for those SPIs.
+{% endhint %}
+
+***
+
+{% hint style="danger" %}
+### "Dataset contains non-finite values" for a series without NaN or Inf
+{% endhint %}
+
+{% hint style="success" %}
+By default the `Calculator` z-scores each process, and a constant process cannot be z-scored, so it is reported as non-finite.
+Remove constant processes before computing, or pass `zscore=False` to keep the data unstandardised; statistics that are undefined for a constant series are then NaN for its pairs.
 {% endhint %}
 
 ***
