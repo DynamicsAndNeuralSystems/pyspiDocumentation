@@ -12,7 +12,7 @@ For users encountering issues with installing _pyspi,_ we recommend you first co
 
 ***
 
-To install _pyspi_ using a local `pip` install, download or clone the [latest version](https://github.com/olivercliff/pyspi) from GitHub, unpack and install:
+To install _pyspi_ using a local `pip` install, download or clone the [latest version](https://github.com/DynamicsAndNeuralSystems/pyspi) from GitHub, unpack and install:
 
 ```bash
 git clone https://github.com/DynamicsAndNeuralSystems/pyspi
@@ -45,21 +45,20 @@ To get started with using a _pyspi_ docker image, follow these steps:
 1.  **Download the Docker Desktop Application**
 
     Install Docker Desktop from the [official Docker website](https://www.docker.com/products/docker-desktop/). This application runs Docker on your machine.&#x20;
-2.  **Create a Docker Account**
+2.  **Build the pyspi Docker Image**
 
-    Register for an account on [Docker Hub](https://hub.docker.com) if you haven't already. This account is needed to download ('pull') Docker images.&#x20;
-3.  **Pull and Run the pyspi Docker Image**
-
-    With the Docker Desktop application running in the background, open the terminal or command prompt and run the following command:
+    The [_pyspi_ repository](https://github.com/DynamicsAndNeuralSystems/pyspi) contains a `Dockerfile` that builds an image from the locked dependency versions in `uv.lock`.
+    With the Docker Desktop application running in the background, open a terminal and run:
 
     ```bash
-    $ docker pull jmoo2880/pyspi:latest
+    $ git clone https://github.com/DynamicsAndNeuralSystems/pyspi
+    $ cd pyspi
+    $ docker build -t pyspi .
     ```
-
-    Now, to run the Docker image:
+3.  **Run the pyspi Docker Image**
 
     ```bash
-    $ docker run -it jmoo2880/pyspi:latest
+    $ docker run -it pyspi
     ```
 
 This should start a python session with _pyspi_ installed and ready to import.&#x20;
