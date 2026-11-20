@@ -115,9 +115,9 @@ If you used _pyspi_ in your work, it would be greatly appreciated if you [cite t
 
 _pyspi_ is designed with cross-platform compatibility in mind and can be run on various operating systems, ensuring a wide range of users have access to pyspi and all of it features. Specifically, _pyspi_ currently supports:
 
-* **MacOS (Python >= 3.9)**
-* **Windows (Python >=3.8)**
-* **Linux (Python >=3.8)**
+* **Linux (Python >= 3.11)**
+* **MacOS (Python >= 3.11)**
+* **Windows (Python >= 3.11; not covered by the test suite)**
 
 In all cases, ensure that you have the required version of Python installed, as _pyspi_ is a python-based package. We actively monitor and work on compatibility issues that may arise with new updates to these operating systems. Users are encouraged to report any compatibility issues they encounter on our [GitHub issues page](https://github.com/DynamicsAndNeuralSystems/pyspi/issues), helping us improve _pyspi_ for all users.&#x20;
 
