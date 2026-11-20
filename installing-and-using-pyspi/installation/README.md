@@ -7,34 +7,64 @@ coverY: 0
 
 # Installation
 
-## 1. (Optional) Create a conda environment
+_pyspi_ requires **Python 3.11 or newer** (it is tested on 3.11, 3.12 and 3.13).
+It is pure Python and needs no Java runtime or other external software.
+
+## 1. Create an environment
 
 {% hint style="success" %}
-## Recommended: Create a _conda_ environment
+## Recommended: install _pyspi_ in its own environment
 {% endhint %}
 
-While you can also install _pyspi_ outside of a [conda](https://docs.conda.io/projects/conda/en/latest/index.html) environment, it depends on a lot of user packages that may make managing dependencies quite difficult. So, we would also recommend installing _pyspi_ in a _conda_ environment. After [installing conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), create a new environment for using the toolkit:
+_pyspi_ depends on a large scientific stack (numpy, scipy, scikit-learn, statsmodels, mne and others), so installing it into a dedicated environment keeps its dependencies from conflicting with your other projects.
+Any of the following works.
+
+With the standard library's `venv`:
 
 ```bash
-$ conda create -n pyspi python=3.9.0
-$ conda activate pyspi
+python3.12 -m venv .venv
+source .venv/bin/activate        # on Windows: .venv\Scripts\activate
+```
+
+With [_uv_](https://docs.astral.sh/uv/), which can also download a suitable Python for you:
+
+```bash
+uv venv --python 3.12
+source .venv/bin/activate
+```
+
+With [_conda_](https://docs.conda.io/projects/conda/en/latest/index.html):
+
+```bash
+conda create -n pyspi python=3.12
+conda activate pyspi
 ```
 
 ## <mark style="color:green;">2. Install with</mark> <mark style="color:green;"></mark>_<mark style="color:green;">pip</mark>_
 
 ***
 
-To install _pyspi, you can_ `pip` install using the following command:
+Inside the environment, install _pyspi_ from PyPI:
 
 ```bash
-pip install pyspi
+pip install pyspi        # or: uv pip install pyspi
 ```
+
+Check that you have version 3 or later:
+
+```bash
+python -c "from importlib.metadata import version; print(version('pyspi'))"
+```
+
+If this prints a 2.x version, your Python is older than 3.11 and pip has fallen back to the last release that supported it; see [Troubleshooting](troubleshooting.md).
+
+Two optional extras are available: `pip install "pyspi[tsfile]"` adds support for loading sktime/aeon `.ts` files, and `pip install "pyspi[bench]"` installs what the compute-cost benchmark suite in the repository's `bench/` folder needs.
 
 ***
 
 ## Alternative Options
 
-For users who are encountering issues related to the installation of _pyspi_, we offer a comprehensive troubleshooting guide, as well as alternative installation options. Click a card below for alternative options:
+For users who are encountering issues related to the installation of _pyspi_, we offer a troubleshooting guide, as well as alternative installation options (from source, or with Docker). Click a card below for alternative options:
 
 <table data-view="cards"><thead><tr><th></th><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td align="center"><strong>Alternative Installation Options</strong></td><td></td><td><a href="../../.gitbook/assets/alt_install_light.png">alt_install_light.png</a></td><td><a href="alternative-installation-options.md">alternative-installation-options.md</a></td></tr><tr><td></td><td align="center"><strong>Troubleshooting</strong></td><td></td><td><a href="../../.gitbook/assets/troubleshooting_vector_icon (1).png">troubleshooting_vector_icon (1).png</a></td><td><a href="troubleshooting.md">troubleshooting.md</a></td></tr></tbody></table>
 
